@@ -8,3 +8,14 @@ A easy-to-use script, which automates the process of portforwarding (ports)
 
 Current providers:
 - Odido (Formerly known as Tele2)
+
+
+### Installation
+
+   ```sh
+   git clone https://github.com/kanetjuh/ISPF
+
+   pip install -r requirements.txt
+
+   python main.py
+   ```
